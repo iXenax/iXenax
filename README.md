@@ -1,6 +1,9 @@
 Hi, I’m @iXenax
 I’m interested in Python and AI.
+
 I’m currently learning Python
+
+
 
 I hate my own username
 
