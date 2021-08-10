@@ -1,5 +1,5 @@
 Hi, I’m @iXenax
-I’m interested in Python, AI
+I’m interested in Python and AI.
 I’m currently learning Python
 
 <!---
