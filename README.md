@@ -1,4 +1,4 @@
-Hi, I’m @iXenax
+Hi, I’m @nax
 I’m interested in Python and AI.
 
 I’m currently learning Python
